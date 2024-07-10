@@ -9,7 +9,7 @@ This repo is for the purpose of archiving my practice attempts of the coding que
 The problem sets are separated into 3 folders according to their official difficulty level as seen on Leetcode
 - Easy :green_circle:
 - Medium :orange_circle:
-- Hard 	:red_circle:
+- Hard :red_circle:
 
 Each problem has its own sub-folder named after itself, with a _readme_ explaining the problem set in more detail.
 
