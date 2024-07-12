@@ -17,4 +17,4 @@ Any self-attempted solutions done purely of my own efforts without referencing n
 - self_attempt.py
 - self_attempt_X.py
 
-Attempts made with reference to any online resources are named in any fashion, e.g. _model\_answer.py_, _creative\_soln.py_, _cool\_soln_.py etc.
+Attempts made with reference to the community answers are named in any fashion, e.g. _model\_answer.py_, _creative\_soln.py_, _cool\_soln_.py etc.
