@@ -22,7 +22,6 @@ def searchMatrix(matrix, target):
     # No match found. Return false
     return False
 
-
 def main():
     # Open and read from input file
     file = open('input.txt', 'r') # Swap out name of the different input files as you like here
