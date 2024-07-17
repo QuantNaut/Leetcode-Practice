@@ -1,4 +1,4 @@
-## 74\. Search a 2D Matrix
+# 74\. Search a 2D Matrix
 <u><b>Offical page</b></u>: https://leetcode.com/problems/search-a-2d-matrix/description/
 
 You are given an `m x n` integer `matrix` with the following two properties:
